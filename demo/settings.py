@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'aywdcgi@!l0$y!rfgcv6eutfc=7v6e1)a*iamctkej^zrs067o'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['dhanapaints.herokuapp.com']
 
